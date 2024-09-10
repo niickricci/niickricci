@@ -36,5 +36,3 @@ I am a third year CS student at Collège Lionel-Groulx with a passion for techno
 <h2>🌐 Connect with me</h2>
 
 # <a href="mailto:niickricci@hotmail.com">![niickricci@hotmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/niickricci/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-> > > > > > > d48bb2c0fc1da73a317f5d78b1cfcc00faeab0f8
