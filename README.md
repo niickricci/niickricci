@@ -10,7 +10,7 @@ I am a third year CS student at Collège Lionel-Groulx with a passion for techno
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,nodejs,python,dotnet,javascript,php,react,html,css,azure,git&perline=6)](https://skillicons.dev)
 
-**Check out my GitHub repository:**
+<!-- **Check out my GitHub repository:**
 
 <div>
   <p>
@@ -21,7 +21,7 @@ I am a third year CS student at Collège Lionel-Groulx with a passion for techno
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=niickricci&repo=TP02-KBB" alt="GitHub Stats" />
     </a>
   </p>
-</div>
+</div> -->
 
 <h2>🚀 Stats</h2>
 
