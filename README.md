@@ -5,10 +5,16 @@
 ## 🎓 About me
 
 I am a third year CS student at Collège Lionel-Groulx with a passion for technology, finance and sports. I thrive on exploring new and innovative technologies and am dedicated to expanding my programming skills 💻. Alongside my academic pursuits, I enjoy traveling, which broadens my perspective and fuels my curiosity.
+<br>
 
 ## 💻 Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,nodejs,python,dotnet,javascript,php,react,html,css,azure,git&perline=6)](https://skillicons.dev)
+<br>
+
+## 🌐 Connect with me</h2>
+
+<a href="mailto:niickricci@hotmail.com">![niickricci@hotmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/niickricci/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <!-- **Check out my GitHub repository:**
 
@@ -23,14 +29,10 @@ I am a third year CS student at Collège Lionel-Groulx with a passion for techno
   </p>
 </div> -->
 
-<h2>🚀 Stats</h2>
+## 💫 Stats
 
 <div>
-  <p align="center"><b><em>GitHub Stats:</em></b> <br/>
+  <p align="center"><b><em>GitHub Stats 📊:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=niickricci&theme=meta-light" alt="GitHub Stats" /> 
     <br/><br/>
 </div>
-
-<h2>🌐 Connect with me</h2>
-
-# <a href="mailto:niickricci@hotmail.com">![niickricci@hotmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/niickricci/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
