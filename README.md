@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Hey 👋 I'm Nicolas
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=niickricci)](https://github.com/niickricci) [![GitHub followers](https://img.shields.io/github/followers/niickricci.svg?style=social&label=Follow)](https://github.com/niickricci?tab=followers)
