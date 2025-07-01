@@ -4,7 +4,7 @@
 
 ## 🎓 About me
 
-I am a third year CS student at Collège Lionel-Groulx with a passion for technology, finance and sports. I thrive on exploring new and innovative technologies and am dedicated to expanding my programming skills 💻. Alongside my academic pursuits, I enjoy traveling, which broadens my perspective and fuels my curiosity.
+Software engineering student in Montréal, passionate about tech, finance, and sports. Constantly exploring new technologies and refining my development skills. Travel fuels my curiosity and broadens my perspective.
 <br>
 
 ## 💻 Skills & Technologies
