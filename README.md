@@ -9,7 +9,7 @@ Software engineering student in Montréal, passionate about tech, finance, and s
 
 ## 💻 Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,nodejs,python,dotnet,javascript,php,react,html,css,azure,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,nodejs,python,dotnet,javascript,angular,react,php,mysql,postgres,aws,azure,git&perline=6)](https://skillicons.dev)
 <br>
 
 ## 🌐 Connect with me</h2>
